@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Deep Learning.
 - 🌱 I’m currently learning Statistics on my own to better myself in data Science and analytic.
 - 💞️ I’m looking for a **summer training opportunity**. 
-- 📫 reach me by email sadiqjafar1419@gmail.com.
+- 📫 reach me by email.
 
 <!---
 sadiq1419/sadiq1419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
